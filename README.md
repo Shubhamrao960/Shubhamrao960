@@ -1,4 +1,4 @@
-<## Hello Everyone 👋 I'm Shubham
+## Hello Everyone 👋 I'm Shubham
 
 ## Tech Stack 
 
