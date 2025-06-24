@@ -14,9 +14,9 @@
 ## 🧑‍💻 Who am I?
 
 - 🎓 Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.36`
-- 👨‍💻 Ex-Intern @ **IIT Guwahati (NERERL)**, **IIT Patna**, and **Gigly**
-- 🧠 Learning **Spring Boot**, **Kubernetes**, and **System Design**
-- 💡 Passionate about **Backend Development**, **ML**, and scalable solutions
+- 👨‍💻 Ex-Intern @  **Gigly**, **IIT Guwahati (NERERL)** and  **IIT Patna**
+- 🧠 Learning **Spring Boot**, **MicroServices**, and **System Design**
+- 💡 Passionate about **Backend Development**, **ML**, and **scalable solutions**
 - 🎯 Lead developer for **Addovedi** and **Atulyam**– NIT Arunachal Pradesh’s Fest Websites  
 
 ---
