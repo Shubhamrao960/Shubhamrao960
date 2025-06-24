@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Who am I?
 
-- 🎓 Pre-Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.23`
+- 🎓 Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.36`
 - 👨‍💻 Ex-Intern @ **IIT Guwahati (NERERL)**, **IIT Patna**, and **Gigly**
 - 🧠 Learning **Spring Boot**, **Kubernetes**, and **System Design**
 - 💡 Passionate about **Backend Development**, **ML**, and scalable solutions
