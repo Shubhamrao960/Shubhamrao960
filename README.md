@@ -24,21 +24,26 @@
 ## 🚀 Tech Toolbox
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
 ## 💼 Internships & Experience
 
-### 🖥️ **Frontend Intern @ Gigly**
-> Building sleek and responsive React.js interfaces for a Canadian startup.
+### 🖥️ **SDE Intern @ Gigly**
+> "Building responsive React.js frontends and robust Spring Boot backends for a Canadian startup."
 
 ### ☀️ **SDE Intern @ NERERL, IIT Guwahati**
 > Developed ML model for solar inspection with 85% accuracy + cloud-based dashboard.
@@ -52,6 +57,7 @@
 
 | 🌟 Project | 🔍 Description |
 |-----------|----------------|
+| [**To-Do List Web App**](#) | Full-stack task manager using React.js & Spring Boot with CRUD and authentication |
 | [**Atulyam 2025 Website**](https://atulyam2025.vercel.app/) | Designed official cultural-fest website,Managed over 1500 registrations |
 | [**Addovedi 2024 Website**](https://addovedi2024.netlify.app) | Designed official tech-fest site, boosted engagement by 40% |
 | [**Solar Inspection System**](https://delightful-liger-b8135b.netlify.app) | ML-powered dashboard for solar fault prediction |
