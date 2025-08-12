@@ -65,7 +65,6 @@
 | [**Real-Time Chat App**](https://github.com/Shubhamrao960/ChatApp) | Spring Boot + React.js + MongoDB chat app with WebSocket instant messaging |
 | [**Atulyam 2025 Website**](https://nitap.ac.in/atulyam2025/) | Responsive cultural-fest site with event listings, registration & media galleries (5000+ users) |
 | [**RTO Vehicle Management System**](https://github.com/Shubhamrao960/vehicle_api) | Java + Spring Boot API for vehicle management, challan tracking & insurance records |
-| [**Solar Inspection System**](https://delightful-liger-b8135b.netlify.app) | Cloud ML dashboard for solar panel fault prediction |
 | [**Addovedi 2024 Website**](https://addovedi2024.netlify.app) | Tech-fest website increasing user engagement by 40% |
 
 ---
