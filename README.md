@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Who am I?
 
-- 🎓 Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.36` *(Highest in CSE branch & batch)*
+- 🎓 Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.36` *(Highest in CSE branch and entire graduating batch.)*
 - 👨‍💻 Ex-Intern @ **Celebal Technologies**, **Gigly**, **IIT Guwahati (NERERL)**, and **IIT Patna**
 - 🧠 Learning **Spring Boot**, **Microservices**, and **System Design**
 - 💡 Passionate about **Backend Development**, **Machine Learning**, and **Scalable Solutions**
