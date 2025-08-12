@@ -13,11 +13,12 @@
 
 ## 🧑‍💻 Who am I?
 
-- 🎓 Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.36`
-- 👨‍💻 Ex-Intern @  **Gigly**, **IIT Guwahati (NERERL)** and  **IIT Patna**
-- 🧠 Learning **Spring Boot**, **MicroServices**, and **System Design**
-- 💡 Passionate about **Backend Development**, **ML**, and **scalable solutions**
-- 🎯 Lead developer for **Addovedi** and **Atulyam**– NIT Arunachal Pradesh’s Fest Websites  
+- 🎓 Final Year CSE Student @ **NIT Arunachal Pradesh** | CGPA: `9.36` *(Highest in CSE branch & batch)*
+- 👨‍💻 Ex-Intern @ **Celebal Technologies**, **Gigly**, **IIT Guwahati (NERERL)**, and **IIT Patna**
+- 🧠 Learning **Spring Boot**, **Microservices**, and **System Design**
+- 💡 Passionate about **Backend Development**, **Machine Learning**, and **Scalable Solutions**
+- 🎯 Lead developer for **Addovedi** & **Atulyam** – NIT Arunachal Pradesh’s Fest Websites
+- 🏆 Selected for **Amazon ML School 2025** from 200,000+ applicants
 
 ---
 
@@ -36,20 +37,24 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 💼 Internships & Experience
 
-### 🖥️ **SDE Intern @ Gigly**
-> "Building responsive React.js frontends and robust Spring Boot backends for a Canadian startup."
+### 🖥️ **SDE Intern @ Celebal Technologies** *(Jun 2025 – Aug 2025, Jaipur, India)*
+> Executed SQL database integration, optimized queries, and developed secure REST APIs for complex data workflows.
 
-### ☀️ **SDE Intern @ NERERL, IIT Guwahati**
-> Developed ML model for solar inspection with 85% accuracy + cloud-based dashboard.
+### 🖥️ **SDE Intern @ Gigly** *(Sep 2024 – Nov 2024, Remote)*
+> Designed responsive React.js UIs and developed Spring Boot + MySQL REST APIs for a Canadian startup.
+
+### ☀️ **SDE Intern @ NERERL, IIT Guwahati** *(Jun 2024 – Jul 2024, Guwahati, India)*
+> Built a cloud-based Solar Analysis System with real-time monitoring & 85% accurate ML-based fault prediction.
 
 ### 🔐 **ML Intern @ IIT Patna**
-> Built DL models to enhance cybersecurity threat detection by 25%.
+> Developed deep learning models improving cybersecurity threat detection by 25%.
 
 ---
 
@@ -57,12 +62,13 @@
 
 | 🌟 Project | 🔍 Description |
 |-----------|----------------|
-| [**To-Do List Web App**](#) | Full-stack task manager using React.js & Spring Boot with CRUD and authentication |
-| [**Atulyam 2025 Website**](https://atulyam2025.vercel.app/) | Designed official cultural-fest website,Managed over 1500 registrations |
-| [**Addovedi 2024 Website**](https://addovedi2024.netlify.app) | Designed official tech-fest site, boosted engagement by 40% |
-| [**Solar Inspection System**](https://delightful-liger-b8135b.netlify.app) | ML-powered dashboard for solar fault prediction |
-| [**AI Tic-Tac-Toe**](https://github.com/Shubhamrao960/TicTacToe-Game) | Minimax-based game with unbeatable AI opponent |
+| [**Real-Time Chat App**](https://github.com/Shubhamrao960/ChatApp) | Spring Boot + React.js + MongoDB chat app with WebSocket instant messaging |
+| [**Atulyam 2025 Website**](https://nitap.ac.in/atulyam2025/) | Responsive cultural-fest site with event listings, registration & media galleries (5000+ users) |
+| [**RTO Vehicle Management System**](https://github.com/Shubhamrao960/vehicle_api) | Java + Spring Boot API for vehicle management, challan tracking & insurance records |
+| [**Solar Inspection System**](https://delightful-liger-b8135b.netlify.app) | Cloud ML dashboard for solar panel fault prediction |
+| [**Addovedi 2024 Website**](https://addovedi2024.netlify.app) | Tech-fest website increasing user engagement by 40% |
 
+---
 
 ## 📈 GitHub Stats
 
@@ -78,10 +84,12 @@
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-Shubham%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubydv05/)](https://www.linkedin.com/in/shubydv05/)
-[![Email](https://img.shields.io/badge/-shubhamyadav907906@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shubhamyadav907906@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shubhamyportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-Shubham%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamyadav05/)](https://www.linkedin.com/in/shubhamyadav05/)
+[![Email](https://img.shields.io/badge/-shubham.cse.22@nitap.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shubham.cse.22@nitap.ac.in)
 [![GitHub](https://img.shields.io/github/followers/Shubhamrao960?label=Follow&style=social)](https://github.com/Shubhamrao960)
 
 ---
 
 <p align="center">🚀 *"Code like a machine, think like a human."* 🚀</p>
+
